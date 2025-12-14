@@ -10,7 +10,7 @@ Desarrollador web y programador apasionado por crear soluciones digitales creati
 
 - [Página Navideña](https://github.com/andyalcivarj-cpu/AndyAlcivar) – Una linda página temática navideña con animaciones en CSS.
 - [Navidad-](https://github.com/andyalcivarj-cpu/Navidad-) – Proyecto web en HTML con diseño responsive.
-- [AndyAlcivarSanchez](https://github.com/andyalcivarj-cpu/AndyAlcivarSanchez) – Portafolio/personal en HTML.
+- [Portafolio](https://github.com/andyalcivarj-cpu/AndyAlcivarSanchez) – Portafolio/personal en HTML.
 - [Proyecto-de-POO](https://github.com/andyalcivarj-cpu/Proyecto-de-POO) – Sistema desarrollado en Python con conceptos de Programación Orientada a Objetos.
 
 📫 **Cómo contactarme:**
